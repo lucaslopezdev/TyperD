@@ -1,0 +1,32 @@
+body {
+    background-image: url("lofi.gif");
+}
+.main {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ddd;
+    border-radius: 20px;
+    width: 30vw;
+    padding: 15px;
+}
+
+.end-game-container {
+    margin: 0 auto;
+    text-align: center;
+    background-color: #ccc;
+    border-radius: 20px;
+    width: 30vw;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+#video {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#iframe {
+    border-radius: 20px;
+}
